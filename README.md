@@ -18,7 +18,7 @@ This repository was made to store all directories of my projects, it was made in
 <summary> <strong> 📁 October 30 > November 3 </strong> </summary>
 <br>
 
-* <a href="CHANGE ME">web_infrastructure_design</a>
+* <a href="https://github.com/RaphSchp/holbertonschool-system_engineering-devops/tree/main/web_infrastructure_design">web_infrastructure_design</a>
 
 
 </details>
